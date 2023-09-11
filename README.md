@@ -4,6 +4,8 @@ PMVC0.4
 
 .htaccess rules
 
+/#/=#
+
 <FilesMatch "^\.ht">
 Require all denied
 </FilesMatch>
