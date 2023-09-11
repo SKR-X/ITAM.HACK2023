@@ -11,7 +11,7 @@ Require all denied
 Options +FollowSymlinks
 Options -Indexes
 
-# Start to Rewrite
+/#/ Start to Rewrite
 RewriteEngine On
 
 RewriteCond %{REQUEST_URI} ^/?(css|fonts|img|js)(/.*)?$ [NC]
